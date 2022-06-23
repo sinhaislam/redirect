@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: 'Galada', cursive;
+}
+p{
+    color: white;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.main{
+
+    text-align: center;
+
+}
